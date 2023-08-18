@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.2.3",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "medicc_regrafted.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "medicc_regrafted.html": {
+      "checksum": "1a96f6422d6ce9ebee8a1ae71bb07d95"
+    }
+  },
+  "users": null
+}
